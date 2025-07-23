@@ -1,0 +1,3 @@
+- Escreva mensagens de commit claras e descritivas.
+- Use branches para organizar funcionalidades e correções.
+- Faça Pull Requests para revisão e colaboração antes de mesclar no main.
